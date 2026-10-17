@@ -15,7 +15,7 @@ body:
         - Act 1 · Cloud-native on Azure Container Apps
         - Act 2 · GitHub-powered delivery
         - Act 3 · AI-enabled with Microsoft Foundry
-        - Act 4 · Observe, optimize, and scale
+        - Act 4 · Observe and optimize
         - Act 5 · Showtime
     validations:
       required: true
